@@ -1,0 +1,10 @@
+/Users/danishvahajuddinansari/WEB3/practice/rust_projects/cli_ledger/target/debug/deps/walkdir-d6d31327a1cd5093.d: /Users/danishvahajuddinansari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/lib.rs /Users/danishvahajuddinansari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/dent.rs /Users/danishvahajuddinansari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/error.rs /Users/danishvahajuddinansari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/util.rs
+
+/Users/danishvahajuddinansari/WEB3/practice/rust_projects/cli_ledger/target/debug/deps/libwalkdir-d6d31327a1cd5093.rlib: /Users/danishvahajuddinansari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/lib.rs /Users/danishvahajuddinansari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/dent.rs /Users/danishvahajuddinansari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/error.rs /Users/danishvahajuddinansari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/util.rs
+
+/Users/danishvahajuddinansari/WEB3/practice/rust_projects/cli_ledger/target/debug/deps/libwalkdir-d6d31327a1cd5093.rmeta: /Users/danishvahajuddinansari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/lib.rs /Users/danishvahajuddinansari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/dent.rs /Users/danishvahajuddinansari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/error.rs /Users/danishvahajuddinansari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/util.rs
+
+/Users/danishvahajuddinansari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/lib.rs:
+/Users/danishvahajuddinansari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/dent.rs:
+/Users/danishvahajuddinansari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/error.rs:
+/Users/danishvahajuddinansari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/util.rs:
