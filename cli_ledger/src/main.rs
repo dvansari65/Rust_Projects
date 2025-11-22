@@ -48,7 +48,7 @@ fn main()-> Result<(),Box<dyn Error>> {
         Commands :: ViewCommits { path } => {
             let commits = parse_commits(path)?;
             for commit in commits {
-                println!("{} | {} | {} ",commit.hash,commit.author , commit.date);
+                println!("{} | {} | {} ",commit.hash  ,commit.author , commit.date);
                 println!("message : {}",commit.message)
             }
         },
@@ -72,15 +72,14 @@ fn parse_commits (repo_path:&str)->Result<Vec<Commit>,Box<dyn Error>>{
         return Err("Invalid repo path or .git folder missing".into())
     }
     let mut commits = Vec::new();
-    println!("raw paths:{}",repo_path);
-    println!("converted path:{}",git_objects.display());
+    // println!("raw paths:{}",repo_path);
+    // println!("converted path:{}",git_objects.display());
     for entry in WalkDir::new(&git_objects){
-        println!("each entry {:?}",entry);
         let entry = entry?;
         if entry.file_type().is_file() {
             let path = entry.path();
             if let Some(hash) = path.file_name() {
-                println!("\n \n hash{:?}",hash);
+                // println!("\n \n hash{:?}",hash);
                 let hash_str = hash.to_string_lossy().to_string();
                 commits.push(Commit {
                     hash:hash_str,
